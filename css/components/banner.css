@@ -1,0 +1,30 @@
+.banner {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+  url(https://rucbot.com/wp-content/uploads/2023/04/PORTADA-GRANDE.png);
+  background-size: cover;
+  background-position: 400px -150px;
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.banner h1 {
+  color: white;
+  width: 60%;
+  margin-top: 0;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  width: 60%;
+}

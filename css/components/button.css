@@ -1,0 +1,14 @@
+.btn-primary {
+  background-color: #ff7800;
+  color: white;
+  padding: 16px 36px;
+  border-radius: 50px;
+  display: inline-block;
+  font-weight: bold;
+  /*text-decoration: none;*/
+  /*margin-top: 60px;*/
+}
+
+.banner .btn-primary:hover {
+  background-color: #ff961f; /* Color de fondo del botón al pasar el ratón */
+}
